@@ -1,0 +1,102 @@
+ody{
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+h2 {
+    font-size: 45px;
+    
+}
+h2 span{
+    color: orangered;
+
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+    
+    margin-top: 5%;
+
+}
+
+
+.button{
+    background-image: linear-gradient( blue,#8A2BE2);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.Frame{
+    background-image: url(Images/Frame\ 57.jpg);
+    
+}
+.Frame2{
+    background-image: url(Images/Frame\ 59.jpg);
+}
+.half-width-2{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width-2 img{
+    height: 400px;  
+    
+}
+.center {
+    text-align: center;
+}
+
+}
+#half-width-1{
+    margin-top: 30px; 
+       
+}
+#half-width-1 img{
+    width: 100%;
+    height: 300px;
+    width: 300px;
+}
+#half-width{
+     border: 5px solid;
+     border-image: linear-gradient(salmon,sandybrown);
+     border-image-slice: 1;
+     border-radius: 10px;
+     margin: 20px 20px 20px 20px;
+     padding : 20px 30px 30px 50px;
+     box-shadow: 5px 10px 10px 8px gray;
+     text-align: justify;
+    }
+    h1{
+       font-weight: 800;
+    }
+    .foot{
+        background-color: seagreen;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        margin border: 50px;
+
+    }
+    .link {
+        background-image: linear-gradient(salmon,orange);
+        text-align: center;
+        box-shadow: 5px 10px 10px 8px wheat;
+        margin-bottom: 50px;
+        
+      }
+      
+      .link li {
+        display: inline-block;
+        font-size: 20px;
+        padding: 20px 10px;
+   
+      
+
+
